@@ -38,7 +38,7 @@ NutritionPlanner Backend application built using the Qt framework, designed to h
 
 
 ### Video
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/R7ffb2nJ8hU)
+[![Video Title](https://img.youtube.com/vi/R7ffb2nJ8hU/0.jpg)](https://youtu.be/R7ffb2nJ8hU)
 
 ## Installation
 
