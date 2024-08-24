@@ -37,6 +37,9 @@ NutritionPlanner Backend application built using the Qt framework, designed to h
 ![Screenshot of the Application](Images/back.png)
 
 
+### Video
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/R7ffb2nJ8hU)
+
 ## Installation
 
 ### Frontend
@@ -86,9 +89,3 @@ Logs are written to 2 files
 
 1. requests_log.txt for new Patient requests.
 2. feedbacks_log.txt for new Feedbacks.
-
-
-
-
-
-
